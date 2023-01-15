@@ -10,7 +10,7 @@
 
 ## PROJECT PREVIEW
 
-![Design preview for the project]()
+![Design preview for the project](https://estorelabs.github.io/RC---220908-LO-366-Matrix-Mega-Sleek-Szampon-FRISER/)
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
