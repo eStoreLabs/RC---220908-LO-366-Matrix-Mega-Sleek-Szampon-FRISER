@@ -6,11 +6,11 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220908-LO-366-Matrix-Mega-Sleek-Szampon-FRISER/)
 
 ## PROJECT PREVIEW
 
-![Design preview for the project](https://estorelabs.github.io/RC---220908-LO-366-Matrix-Mega-Sleek-Szampon-FRISER/)
+![Design preview for the project]()
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
